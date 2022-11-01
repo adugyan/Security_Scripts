@@ -1,1 +1,1 @@
-# Security_Scipts
+# Security_Scripts
